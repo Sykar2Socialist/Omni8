@@ -20,7 +20,7 @@ ideologies = [
     {
         "name": "Omni-Lib-Share",
         "stats": {
-            "econ": 800,
+            "econ": -800,
             "dipl": 800,
             "govt": 480,
             "scty": 480

@@ -1,20 +1,20 @@
 ideologies = [
     {
-        "name": "TBD",
+        "name": "Omni-Free",
         "stats": {
-            "econ": 100,
-            "dipl": 50,
-            "govt": 100,
-            "scty": 90
+            "econ": 800,
+            "dipl": 400,
+            "govt": 800,
+            "scty": 720
         }
     },
     {
-        "name": "TBD",
+        "name": "Omni-Ancom",
         "stats": {
-            "econ": 100,
-            "dipl": 70,
-            "govt": 80,
-            "scty": 80
+            "econ": 790,
+            "dipl": 400,
+            "govt": 700,
+            "scty": 600
         }
     },
     {

@@ -108,14 +108,14 @@ stats"></a></div></noscript>
         	{return ""}
     }
 
-    equality  = getQueryVariable("e")
+    wealth  = getQueryVariable("e")
     peace     = getQueryVariable("d")
     liberty   = getQueryVariable("g")
     progress  = getQueryVariable("s")
-    wealth    = (500 - equality).toFixed(1)
-    might     = (500 - peace   ).toFixed(1)
-    authority = (500 - liberty ).toFixed(1)
-    tradition = (500 - progress).toFixed(1)
+    equality    = (800 - wealth).toFixed(1)
+    might     = (800 - peace   ).toFixed(1)
+    authority = (800 - liberty ).toFixed(1)
+    tradition = (800 - progress).toFixed(1)
 
     setBarValue("equality", equality)
     setBarValue("wealth", wealth)
